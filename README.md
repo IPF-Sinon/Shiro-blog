@@ -116,3 +116,4 @@ docker compose pull
 
 > [个人网站](https://innei.in/) · GitHub [@Innei](https://github.com/innei/)
 > 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52638d2d-ada8-41fb-bc73-882a65e4802b/deploy-status)](https://app.netlify.com/projects/shiro-blog/deploys)
